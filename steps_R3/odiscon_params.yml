@@ -1,0 +1,8 @@
+time_step: 0.056854
+
+param_folder: "odin_parameters"
+initial_control_mode: "ireena_gspi"
+
+initial_generator_feedback:
+  initialisation_strategy: "direct"
+  initial_generator_feedback: 100
